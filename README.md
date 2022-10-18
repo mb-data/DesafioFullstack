@@ -5,7 +5,7 @@ Bem vindo ao desafio Fullstack Khipo. O intuito desse desafio é ver suas habili
 * Utilizar TypeScript
 * Utilizar React ou Next no Frontend
 * Utilizar Chakra UI, Material UI ou Tailwind
-* Utilizar NestJs ou .NET no Backend
+* Utilizar NestJs no Backend
 * Utilizar banco de dados PostgreSQL, MySQL, MariaDB ou MongoDB
 * Seguir os Wireframes do Figma
 * Entender o que está sendo pedido no design e modelar as tabelas do banco de acordo
